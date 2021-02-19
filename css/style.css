@@ -125,7 +125,7 @@ p {
 }
 
 .services img {
-    width: 20%;
+    width: 100px;
 }
 
 .demo-pic img {
@@ -143,7 +143,7 @@ form {
     font-family: Arial, Helvetica, Tahoma, sans-serif;
 }
 
-/* Use Media Quary */
+/* Use Media Query */
 @media all and (max-width: 992px) {
     .banner-img {
         width: 100%;
